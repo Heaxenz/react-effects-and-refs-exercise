@@ -1,0 +1,20 @@
+body{
+    background-color:green;
+}
+
+.Cards{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:100px;  
+}
+
+.buttons{
+    margin-top:20px;
+    padding:10px;
+    color:white;
+    background-color:rgb(131, 131, 131);
+    border:white 1px solid;
+    border-radius:10px;
+}
+
